@@ -1,0 +1,43 @@
+{
+  "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+  "slug": "build-a-tiny-typescript-greeting-utility",
+  "title": "Build a tiny TypeScript greeting utility",
+  "content": "<p>Build a small, well-tested TypeScript utility and prove it works.</p><ul><li>Implement a CLI command that prints a greeting</li><li>Automated tests must pass (<code>npm test</code>)</li><li>The project must build cleanly with <code>npm run build</code></li><li>Include a README.md file documenting usage</li><li>Commit your work with git</li><li>The CLI should be fast and user-friendly</li></ul>",
+  "requirements": null,
+  "tags": ["typescript", "cli", "good-first-issue"],
+  "primarySkill": { "slug": "typescript", "label": "TypeScript" },
+  "createdAt": "2026-09-01T12:00:00.000Z",
+  "deadline": null,
+  "status": "CREATED",
+  "isOpen": true,
+  "isFeatured": false,
+  "asset": {
+    "id": "usdc",
+    "mintAddress": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "symbol": "USDC",
+    "imageUrl": null,
+    "amount": 50,
+    "price": 1,
+    "decimals": 6
+  },
+  "user": {
+    "id": "creator-1",
+    "externalId": "ext-1",
+    "username": "bounty-creator",
+    "profilePicture": "",
+    "isPremium": false,
+    "membership": { "tier": "free", "entitlementLevel": 0, "isPro": false },
+    "approvedTaskSubmissions": 3,
+    "rejectedTaskSubmissions": 0,
+    "rating": 5
+  },
+  "media": [],
+  "minSubmissionAmount": 5,
+  "maxSubmissions": null,
+  "allowOnlyVerifiedSubmissions": false,
+  "allowOnlyDiscordGuildSubmissions": false,
+  "requiredDiscordRoleIds": [],
+  "taskSubmissionsPendingCount": 0,
+  "taskSubmissionsRejectedCount": 0,
+  "taskSubmissionsApprovedCount": 0
+}

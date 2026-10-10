@@ -1,0 +1,12 @@
+{
+  "name": "verity-sample-project",
+  "version": "1.0.0",
+  "description": "A tiny TypeScript project used to demo Gibwork Verity locally.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node --experimental-strip-types --check src/greet.ts",
+    "test": "node --experimental-strip-types --test src/greet.test.ts"
+  },
+  "license": "MIT"
+}
